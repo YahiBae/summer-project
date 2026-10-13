@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root { font-family: 'DM Sans', 'Avenir Next', sans-serif; color: #19342d; background: #f5f8f4; font-synthesis: none; text-rendering: optimizeLegibility; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; }
